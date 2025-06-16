@@ -1,11 +1,16 @@
 {
     "name": "labrador.unitywrench.service",
-    "version": "0.1.0",
     "displayName": "UnityWrench Service",
+    "version": "0.1.0",
     "description": "A service for UnityWrench that provides a set of tools and utilities to enhance the development experience.",
     "unity": "2022.3",
     "keywords": ["tools", "service", "untitled"],
     "author": {
         "name": "Labrador52"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Labrador52/UnityWrench-Service.git"
+    },
+    "license": "MIT"
 }
