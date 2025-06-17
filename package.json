@@ -1,7 +1,7 @@
 {
     "name": "labrador.unitywrench.service",
     "displayName": "UnityWrench Service",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A service for UnityWrench that provides a set of tools and utilities to enhance the development experience.",
     "unity": "2022.3",
     "keywords": ["tools", "service", "untitled"],
