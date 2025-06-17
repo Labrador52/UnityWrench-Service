@@ -16,6 +16,8 @@ To provide a simple and efficient way to manage and access services within a Uni
 ## Usage
 
 ```csharp
+using Labrador.UnityWrench.Service
+
 // Register a service
 Service.Register<IService>(this);
 Service.Register<IInputGetter>(this, true);
